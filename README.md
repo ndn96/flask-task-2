@@ -1,1 +1,3 @@
 # flask-task-2
+1. Sửa 1 cái gì đó ở file này.....
+2. Sửa xong thì commit lại,rồi đẩy lên repo của bạn như khi bạn code bình thường.
